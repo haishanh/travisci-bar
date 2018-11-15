@@ -36,4 +36,4 @@ env:
 #   - ./dockers/start.sh
 #   - node ./scripts/install.js
 script:
-  - scripts/ci-setup.sh
+  - bash scripts/ci-setup.sh
